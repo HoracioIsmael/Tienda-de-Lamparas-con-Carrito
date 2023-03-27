@@ -1,0 +1,222 @@
+[
+    {
+        "id": "lampara-01",
+        "titulo": "Lámpara de pie moderna",
+        "descripcion": "Lámpara de pie moderna con base de madera y pantalla de tela blanca. Ideal para decoración de interiores.",
+        "imagen": "./img/lampara14.jpg",
+        "categoria": {
+            "nombre": "Lamparas de pie",
+            "id": "lamparaPie"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "lampara-02",
+        "titulo": "Lámpara colgante vintage",
+        "descripcion": "Lámpara colgante vintage con pantalla de vidrio transparente y detalles en bronce. Perfecta para ambientes retro.",
+        "imagen": "./img/lampara2.jpg",
+        "categoria": {
+            "nombre": "Lamparas colgantes",
+            "id": "lamparaColgantes"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "lampara-03",
+        "titulo": "Lámpara de mesa minimalista",
+        "descripcion": "Lámpara de mesa minimalista con base de acero inoxidable y pantalla de vidrio esmerilado. Diseño elegante y moderno.",
+        "imagen": "./img/lampara17.jpg",
+        "categoria": {
+            "nombre": "Lamparas de mesa",
+            "id": "lamparaMesa"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "lampara-04",
+        "titulo": "Lámpara de techo industrial",
+        "descripcion": "Lámpara de techo industrial con tres luces y estructura de metal negro. Ideal para espacios amplios y estilo urbano.",
+        "imagen": "./img/lampara3.jpg",
+        "categoria": {
+            "nombre": "Lamparas de techo",
+            "id": "lamparaTecho"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "lampara-05",
+        "titulo": "Lámpara de escritorio LED",
+        "descripcion": "Lámpara de escritorio LED con brazo ajustable y base de metal cromado. Perfecta para iluminar áreas de trabajo.",
+        "imagen": "./img/lampara18.jpg",
+        "categoria": {
+            "nombre": "Lamparas de escritorio",
+            "id": "lamparaEscritorio"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "lampara-06",
+        "titulo": "Lámpara de pared clásica",
+        "descripcion": "Lámpara de pared clásica con pantalla de tela beige y estructura de metal dorado. Ideal para decoración tradicional.",
+        "imagen": "./img/lampara20.jpg",
+        "categoria": {
+            "nombre": "Lamparas de pared",
+            "id": "lamparaPared"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "lampara-07",
+        "titulo": "Lámpara de jardín solar",
+        "descripcion": "Lámpara de jardín solar con estructura de acero inoxidable y panel solar integrado. Funciona con energía solar y es ecológica.",
+        "imagen": "./img/lampara8.jpg",
+        "categoria": {
+            "nombre": "Lamparas de exterior",
+            "id": "lamparaExterior"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "lampara-08",
+        "titulo": "Lámpara de pie clásica",
+        "descripcion": "Lámpara de pie clásica con base de madera tallada y pantalla de tela roja. Perfecta para decoración vintage.",
+        "imagen": "./img/lampara18.jpg",
+        "categoria": {
+            "nombre": "Lamparas de pie",
+            "id": "lamparaPie"
+        },
+        "precio": 5500
+    },
+    {
+        "id": "lampara-09",
+        "titulo": "Lámpara colgante moderna",
+        "descripcion": "Lámpara colgante moderna con pantalla de vidrio esmerilado y detalles en metal cromado. Diseño minimalista y elegante.",
+        "imagen": "./img/lampara1.jpg",
+        "categoria": {
+            "nombre": "Lamparas colgantes",
+            "id": "lamparaColgantes"
+        },
+        "precio": 4200
+    },
+    {
+        "id": "lampara-10",
+        "titulo": "Lámpara de mesa vintage",
+        "descripcion": "Lámpara de mesa vintage con base de cerámica y pantalla de tela verde. Ideal para decoración retro.",
+        "imagen": "./img/lampara10.jpg",
+        "categoria": {
+            "nombre": "Lamparas de mesa",
+            "id": "lamparaMesa"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "lampara-11",
+        "titulo": "Lámpara de techo industrial",
+        "descripcion": "Lámpara de techo industrial con pantalla de metal y cadena de acero. Diseño robusto y contemporáneo.",
+        "imagen": "./img/lampara11.jpg",
+        "categoria": {
+            "nombre": "Lamparas de techo",
+            "id": "lamparaTecho"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "lampara-12",
+        "titulo": "Lámpara de pie moderna",
+        "descripcion": "Lámpara de pie moderna con base de mármol y estructura de metal negro. Ideal para decoración contemporánea.",
+        "imagen": "./img/lampara12.jpg",
+        "categoria": {
+            "nombre": "Lamparas de pie",
+            "id": "lamparaPie"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "lampara-13",
+        "titulo": "Lámpara colgante clásica",
+        "descripcion": "Lámpara colgante clásica con pantalla de vidrio esmerilado y estructura de metal dorado.",
+        "imagen": "./img/lampara13.jpg",
+        "categoria": {
+            "nombre": "Lamparas colgantes",
+            "id": "lamparaColgantes"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "lampara-14",
+        "titulo": "Lámpara de mesa ajustable",
+        "descripcion": "Lámpara de mesa ajustable con brazo y pantalla de metal cromado. Ideal para iluminar áreas de trabajo.",
+        "imagen": "./img/lampara15.jpg",
+        "categoria": {
+            "nombre": "Lamparas de mesa",
+            "id": "lamparaMesa"
+        },
+        "precio": 2800
+    },
+    {
+        "id": "lampara-15",
+        "titulo": "Lámpara de pared LED",
+        "descripcion": "Lámpara de pared LED con diseño minimalista y acabado de metal satinado. Perfecta para iluminar pasillos y escaleras.",
+        "imagen": "./img/lampara19.jpg",
+        "categoria": {
+            "nombre": "Lamparas de pared",
+            "id": "lamparaPared"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "lampara-16",
+        "titulo": "Lámpara de techo geométrica",
+        "descripcion": "Lámpara de techo con diseño geométrico y acabado dorado. Ideal para decoración moderna y elegante.",
+        "imagen": "./img/lampara7.jpg",
+        "categoria": {
+            "nombre": "Lamparas de techo",
+            "id": "lamparaTecho"
+        },
+        "precio": 5600
+    },
+    {
+        "id": "lampara-17",
+        "titulo": "Lámpara de pie con brazo ajustable",
+        "descripcion": "Lámpara de pie con brazo ajustable y pantalla de tela blanca. Diseño minimalista y versátil.",
+        "imagen": "./img/lampara6.jpg",
+        "categoria": {
+            "nombre": "Lamparas de pie",
+            "id": "lamparaPie"
+        },
+        "precio": 4800
+    },
+    {
+        "id": "lampara-18",
+        "titulo": "Lámpara colgante de cristal",
+        "descripcion": "Lámpara colgante de cristal con diseño elegante y sofisticado. Perfecta para decoración de lujo.",
+        "imagen": "./img/lampara5.jpg",
+        "categoria": {
+            "nombre": "Lamparas colgantes",
+            "id": "lamparaColgantes"
+        },
+        "precio": 8900
+    },
+    {
+        "id": "lampara-19",
+        "titulo": "Lámpara de mesa vintage",
+        "descripcion": "Lámpara de mesa con diseño vintage y acabado de metal envejecido. Perfecta para decoración retro.",
+        "imagen": "./img/lampara4.jpg",
+        "categoria": {
+            "nombre": "Lamparas de mesa",
+            "id": "lamparaMesa"
+        },
+        "precio": 3800
+    },
+    {
+        "id": "lampara-20",
+        "titulo": "Lámpara de pared con pantalla de tela",
+        "descripcion": "Lámpara de pared con pantalla de tela blanca y estructura de metal dorado. Diseño clásico y elegante.",
+        "imagen": "./img/lampara20.jpg",
+        "categoria": {
+            "nombre": "Lamparas de pared",
+            "id": "lamparaPared"
+        },
+        "precio": 5200
+    }
+]
